@@ -1,0 +1,22 @@
+.task-item {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+
+}
+
+.task-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content input {
+  margin-right: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}

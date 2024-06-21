@@ -1,0 +1,19 @@
+.button-icon{
+  padding: 10px;
+  margin-right: 5px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgb(36, 36, 36);
+  border: none;
+  border-radius: 10px;
+  transition: .2s;
+}
+
+.button-icon:hover{
+  background-color: rgb(211, 211, 211);
+  color: rgb(94, 94, 255)
+}
